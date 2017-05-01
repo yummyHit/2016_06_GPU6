@@ -1,0 +1,17 @@
+﻿빌드 시작: 2017-03-17 오후 7:07:32
+     1>2 노드의 "C:\Users\Yummy\Desktop\6조_GPU6_ATM\GPU6_ATM_source\atm\atm.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\atm.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         모든 출력이 최신 상태입니다.
+         atm.vcxproj -> C:\Users\Yummy\Desktop\6조_GPU6_ATM\GPU6_ATM_source\Debug\atm.exe
+       FinalizeBuildStatus:
+         "Debug\atm.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\atm.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\Yummy\Desktop\6조_GPU6_ATM\GPU6_ATM_source\atm\atm.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.06
